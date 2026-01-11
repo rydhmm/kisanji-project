@@ -1,0 +1,554 @@
+{
+  "fertilizers": {
+    "urea": {
+      "name": "Urea",
+      "type": "nitrogenous",
+      "composition_percent": {
+        "N": 46,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 6,
+      "description": "Most concentrated solid nitrogen fertilizer"
+    },
+    "ammonium_sulfate": {
+      "name": "Ammonium Sulfate",
+      "type": "nitrogenous",
+      "composition_percent": {
+        "N": 21,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 24,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 8,
+      "description": "Provides both nitrogen and sulfur"
+    },
+    "calcium_ammonium_nitrate": {
+      "name": "Calcium Ammonium Nitrate (CAN)",
+      "type": "nitrogenous",
+      "composition_percent": {
+        "N": 25,
+        "P": 0,
+        "K": 0,
+        "Ca": 8,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 7,
+      "description": "Provides nitrogen and calcium"
+    },
+    "dap": {
+      "name": "Di-Ammonium Phosphate (DAP)",
+      "type": "phosphatic",
+      "composition_percent": {
+        "N": 18,
+        "P": 46,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 25,
+      "description": "Most popular phosphatic fertilizer, also provides nitrogen"
+    },
+    "ssp": {
+      "name": "Single Super Phosphate (SSP)",
+      "type": "phosphatic",
+      "composition_percent": {
+        "N": 0,
+        "P": 16,
+        "K": 0,
+        "Ca": 21,
+        "Mg": 0,
+        "S": 11,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 8,
+      "description": "Provides phosphorus, calcium, and sulfur"
+    },
+    "tsp": {
+      "name": "Triple Super Phosphate (TSP)",
+      "type": "phosphatic",
+      "composition_percent": {
+        "N": 0,
+        "P": 46,
+        "K": 0,
+        "Ca": 13,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 22,
+      "description": "High concentration phosphatic fertilizer"
+    },
+    "mop": {
+      "name": "Muriate of Potash (MOP)",
+      "type": "potassic",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 60,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 20,
+      "description": "Most common potassium fertilizer"
+    },
+    "sop": {
+      "name": "Sulfate of Potash (SOP)",
+      "type": "potassic",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 50,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 18,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 35,
+      "description": "Premium potassium fertilizer with sulfur"
+    },
+    "npk_19_19_19": {
+      "name": "NPK (19:19:19)",
+      "type": "complex",
+      "composition_percent": {
+        "N": 19,
+        "P": 19,
+        "K": 19,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 30,
+      "description": "Balanced NPK fertilizer"
+    },
+    "npk_20_20_0": {
+      "name": "NPK (20:20:0)",
+      "type": "complex",
+      "composition_percent": {
+        "N": 20,
+        "P": 20,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 25,
+      "description": "High NP fertilizer"
+    },
+    "npk_10_26_26": {
+      "name": "NPK (10:26:26)",
+      "type": "complex",
+      "composition_percent": {
+        "N": 10,
+        "P": 26,
+        "K": 26,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 28,
+      "description": "High PK fertilizer for fruiting stage"
+    },
+    "npk_12_32_16": {
+      "name": "NPK (12:32:16)",
+      "type": "complex",
+      "composition_percent": {
+        "N": 12,
+        "P": 32,
+        "K": 16,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 28,
+      "description": "High phosphorus fertilizer"
+    },
+    "npk_15_15_15": {
+      "name": "NPK (15:15:15)",
+      "type": "complex",
+      "composition_percent": {
+        "N": 15,
+        "P": 15,
+        "K": 15,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 25,
+      "description": "Balanced fertilizer for general use"
+    },
+    "npk_17_17_17": {
+      "name": "NPK (17:17:17)",
+      "type": "complex",
+      "composition_percent": {
+        "N": 17,
+        "P": 17,
+        "K": 17,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 27,
+      "description": "Balanced fertilizer"
+    },
+    "npk_20_20_15": {
+      "name": "NPK (20:20:15)",
+      "type": "complex",
+      "composition_percent": {
+        "N": 20,
+        "P": 20,
+        "K": 15,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 28,
+      "description": "High NP with moderate K"
+    },
+    "gypsum": {
+      "name": "Gypsum",
+      "type": "secondary",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 22,
+        "Mg": 0,
+        "S": 17,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 3,
+      "description": "Provides calcium and sulfur, improves soil structure"
+    },
+    "dolomite": {
+      "name": "Dolomite",
+      "type": "secondary",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 22,
+        "Mg": 12,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 2,
+      "description": "Provides calcium and magnesium, reduces soil acidity"
+    },
+    "magnesium_sulfate": {
+      "name": "Magnesium Sulfate (Epsom Salt)",
+      "type": "secondary",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 10,
+        "S": 13,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 40,
+      "description": "Provides magnesium and sulfur"
+    },
+    "ferrous_sulfate": {
+      "name": "Ferrous Sulfate",
+      "type": "micronutrient",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 11,
+        "Fe": 19,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 25,
+      "description": "Iron source for chlorosis correction"
+    },
+    "zinc_sulfate": {
+      "name": "Zinc Sulfate",
+      "type": "micronutrient",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 11,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 21
+      },
+      "price_per_kg_inr": 60,
+      "description": "Zinc source for enzyme activation"
+    },
+    "manganese_sulfate": {
+      "name": "Manganese Sulfate",
+      "type": "micronutrient",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 13,
+        "Fe": 0,
+        "Mn": 26,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 50,
+      "description": "Manganese source for photosynthesis"
+    },
+    "borax": {
+      "name": "Borax",
+      "type": "micronutrient",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0,
+        "B": 11
+      },
+      "price_per_kg_inr": 35,
+      "description": "Boron source for cell wall development"
+    },
+    "copper_sulfate": {
+      "name": "Copper Sulfate",
+      "type": "micronutrient",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 12,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0,
+        "Cu": 25
+      },
+      "price_per_kg_inr": 80,
+      "description": "Copper source for enzyme systems"
+    },
+    "sodium_molybdate": {
+      "name": "Sodium Molybdate",
+      "type": "micronutrient",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0,
+        "Mo": 39
+      },
+      "price_per_kg_inr": 500,
+      "description": "Molybdenum source for nitrogen fixation"
+    },
+    "chelated_iron": {
+      "name": "Chelated Iron (Fe-EDTA)",
+      "type": "micronutrient",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 12,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 150,
+      "description": "Highly available iron form"
+    },
+    "chelated_zinc": {
+      "name": "Chelated Zinc (Zn-EDTA)",
+      "type": "micronutrient",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 12
+      },
+      "price_per_kg_inr": 200,
+      "description": "Highly available zinc form"
+    },
+    "micronutrient_mixture": {
+      "name": "Micronutrient Mixture",
+      "type": "micronutrient",
+      "composition_percent": {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 2.5,
+        "Mn": 1.0,
+        "Zn": 3.0,
+        "Cu": 0.5,
+        "B": 0.5,
+        "Mo": 0.05
+      },
+      "price_per_kg_inr": 80,
+      "description": "Complete micronutrient blend"
+    },
+    "bone_meal": {
+      "name": "Bone Meal",
+      "type": "organic",
+      "composition_percent": {
+        "N": 4,
+        "P": 12,
+        "K": 0,
+        "Ca": 24,
+        "Mg": 0,
+        "S": 0,
+        "Fe": 0.1,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 15,
+      "description": "Organic phosphorus and calcium source"
+    },
+    "neem_cake": {
+      "name": "Neem Cake",
+      "type": "organic",
+      "composition_percent": {
+        "N": 5,
+        "P": 1,
+        "K": 1.4,
+        "Ca": 0.5,
+        "Mg": 0.3,
+        "S": 0.2,
+        "Fe": 0,
+        "Mn": 0,
+        "Zn": 0
+      },
+      "price_per_kg_inr": 20,
+      "description": "Organic fertilizer with pest repellent properties"
+    },
+    "vermicompost": {
+      "name": "Vermicompost",
+      "type": "organic",
+      "composition_percent": {
+        "N": 1.5,
+        "P": 1.0,
+        "K": 1.5,
+        "Ca": 2.0,
+        "Mg": 0.5,
+        "S": 0.2,
+        "Fe": 0.2,
+        "Mn": 0.05,
+        "Zn": 0.05
+      },
+      "price_per_kg_inr": 5,
+      "description": "Organic compost with beneficial microbes"
+    },
+    "fym": {
+      "name": "Farm Yard Manure (FYM)",
+      "type": "organic",
+      "composition_percent": {
+        "N": 0.5,
+        "P": 0.2,
+        "K": 0.5,
+        "Ca": 0.4,
+        "Mg": 0.2,
+        "S": 0.1,
+        "Fe": 0.1,
+        "Mn": 0.02,
+        "Zn": 0.02
+      },
+      "price_per_kg_inr": 2,
+      "description": "Traditional organic manure"
+    },
+    "compost": {
+      "name": "Compost",
+      "type": "organic",
+      "composition_percent": {
+        "N": 1.0,
+        "P": 0.5,
+        "K": 1.0,
+        "Ca": 1.5,
+        "Mg": 0.4,
+        "S": 0.2,
+        "Fe": 0.15,
+        "Mn": 0.03,
+        "Zn": 0.03
+      },
+      "price_per_kg_inr": 3,
+      "description": "Decomposed organic matter"
+    }
+  }
+}

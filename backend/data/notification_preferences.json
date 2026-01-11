@@ -1,0 +1,38 @@
+{
+  "FARMER001": {
+    "push_enabled": true,
+    "sms_enabled": false,
+    "email_enabled": false,
+    "alert_threshold": "MEDIUM",
+    "quiet_hours_start": null,
+    "quiet_hours_end": null,
+    "updated_at": "2025-12-27T09:38:08.939309"
+  },
+  "FARMER002": {
+    "push_enabled": true,
+    "sms_enabled": false,
+    "email_enabled": false,
+    "alert_threshold": "MEDIUM",
+    "quiet_hours_start": null,
+    "quiet_hours_end": null,
+    "updated_at": "2025-12-27T09:38:41.563439"
+  },
+  "FARMER003": {
+    "push_enabled": true,
+    "sms_enabled": false,
+    "email_enabled": false,
+    "alert_threshold": "MEDIUM",
+    "quiet_hours_start": null,
+    "quiet_hours_end": null,
+    "updated_at": "2025-12-27T09:38:54.823997"
+  },
+  "FARMER004": {
+    "push_enabled": true,
+    "sms_enabled": false,
+    "email_enabled": false,
+    "alert_threshold": "MEDIUM",
+    "quiet_hours_start": null,
+    "quiet_hours_end": null,
+    "updated_at": "2025-12-27T09:38:54.831708"
+  }
+}

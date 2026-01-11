@@ -1,0 +1,1429 @@
+{
+  "crops": {
+    "rice": {
+      "name": "Rice (Paddy)",
+      "category": "cereal",
+      "nutrients_per_hectare_kg": {
+        "N": 120,
+        "P": 60,
+        "K": 60,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 25,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "wheat": {
+      "name": "Wheat",
+      "category": "cereal",
+      "nutrients_per_hectare_kg": {
+        "N": 120,
+        "P": 60,
+        "K": 40,
+        "Ca": 12,
+        "Mg": 8,
+        "S": 20,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "maize": {
+      "name": "Maize (Corn)",
+      "category": "cereal",
+      "nutrients_per_hectare_kg": {
+        "N": 150,
+        "P": 75,
+        "K": 75,
+        "Ca": 18,
+        "Mg": 12,
+        "S": 30,
+        "Fe": 2.5,
+        "Mn": 0.6,
+        "Zn": 0.3
+      }
+    },
+    "sorghum": {
+      "name": "Sorghum (Jowar)",
+      "category": "cereal",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 40,
+        "Ca": 10,
+        "Mg": 7,
+        "S": 15,
+        "Fe": 1.2,
+        "Mn": 0.3,
+        "Zn": 0.15
+      }
+    },
+    "pearl_millet": {
+      "name": "Pearl Millet (Bajra)",
+      "category": "cereal",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 40,
+        "Ca": 10,
+        "Mg": 7,
+        "S": 15,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "finger_millet": {
+      "name": "Finger Millet (Ragi)",
+      "category": "cereal",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 50,
+        "Ca": 20,
+        "Mg": 10,
+        "S": 15,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "barley": {
+      "name": "Barley",
+      "category": "cereal",
+      "nutrients_per_hectare_kg": {
+        "N": 90,
+        "P": 45,
+        "K": 35,
+        "Ca": 10,
+        "Mg": 6,
+        "S": 12,
+        "Fe": 1,
+        "Mn": 0.3,
+        "Zn": 0.15
+      }
+    },
+    "sugarcane": {
+      "name": "Sugarcane",
+      "category": "cash_crop",
+      "nutrients_per_hectare_kg": {
+        "N": 200,
+        "P": 100,
+        "K": 150,
+        "Ca": 30,
+        "Mg": 20,
+        "S": 40,
+        "Fe": 3,
+        "Mn": 0.8,
+        "Zn": 0.4
+      }
+    },
+    "cotton": {
+      "name": "Cotton",
+      "category": "cash_crop",
+      "nutrients_per_hectare_kg": {
+        "N": 120,
+        "P": 60,
+        "K": 60,
+        "Ca": 25,
+        "Mg": 15,
+        "S": 30,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "jute": {
+      "name": "Jute",
+      "category": "cash_crop",
+      "nutrients_per_hectare_kg": {
+        "N": 80,
+        "P": 40,
+        "K": 40,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 20,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "groundnut": {
+      "name": "Groundnut (Peanut)",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 25,
+        "P": 50,
+        "K": 75,
+        "Ca": 40,
+        "Mg": 15,
+        "S": 25,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "soybean": {
+      "name": "Soybean",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 30,
+        "P": 60,
+        "K": 40,
+        "Ca": 20,
+        "Mg": 12,
+        "S": 20,
+        "Fe": 2.5,
+        "Mn": 0.6,
+        "Zn": 0.3
+      }
+    },
+    "mustard": {
+      "name": "Mustard (Sarson)",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 80,
+        "P": 40,
+        "K": 30,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 40,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "sunflower": {
+      "name": "Sunflower",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 80,
+        "P": 60,
+        "K": 60,
+        "Ca": 20,
+        "Mg": 15,
+        "S": 30,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "sesame": {
+      "name": "Sesame (Til)",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 60,
+        "P": 40,
+        "K": 40,
+        "Ca": 30,
+        "Mg": 12,
+        "S": 25,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "castor": {
+      "name": "Castor",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 75,
+        "P": 50,
+        "K": 50,
+        "Ca": 20,
+        "Mg": 12,
+        "S": 25,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "linseed": {
+      "name": "Linseed",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 60,
+        "P": 40,
+        "K": 30,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 20,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "chickpea": {
+      "name": "Chickpea (Chana)",
+      "category": "pulse",
+      "nutrients_per_hectare_kg": {
+        "N": 20,
+        "P": 40,
+        "K": 20,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 15,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "pigeon_pea": {
+      "name": "Pigeon Pea (Arhar/Tur)",
+      "category": "pulse",
+      "nutrients_per_hectare_kg": {
+        "N": 25,
+        "P": 50,
+        "K": 25,
+        "Ca": 20,
+        "Mg": 12,
+        "S": 20,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "green_gram": {
+      "name": "Green Gram (Moong)",
+      "category": "pulse",
+      "nutrients_per_hectare_kg": {
+        "N": 20,
+        "P": 40,
+        "K": 20,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 15,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "black_gram": {
+      "name": "Black Gram (Urad)",
+      "category": "pulse",
+      "nutrients_per_hectare_kg": {
+        "N": 20,
+        "P": 40,
+        "K": 20,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 15,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "lentil": {
+      "name": "Lentil (Masoor)",
+      "category": "pulse",
+      "nutrients_per_hectare_kg": {
+        "N": 20,
+        "P": 40,
+        "K": 20,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 15,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "field_pea": {
+      "name": "Field Pea (Matar)",
+      "category": "pulse",
+      "nutrients_per_hectare_kg": {
+        "N": 20,
+        "P": 50,
+        "K": 30,
+        "Ca": 20,
+        "Mg": 12,
+        "S": 15,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "potato": {
+      "name": "Potato (Aloo)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 150,
+        "P": 75,
+        "K": 150,
+        "Ca": 30,
+        "Mg": 20,
+        "S": 30,
+        "Fe": 2.5,
+        "Mn": 0.6,
+        "Zn": 0.3
+      }
+    },
+    "tomato": {
+      "name": "Tomato (Tamatar)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 150,
+        "P": 75,
+        "K": 150,
+        "Ca": 40,
+        "Mg": 25,
+        "S": 30,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "onion": {
+      "name": "Onion (Pyaz)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 25,
+        "Mg": 15,
+        "S": 40,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "cabbage": {
+      "name": "Cabbage (Patta Gobi)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 120,
+        "P": 60,
+        "K": 120,
+        "Ca": 50,
+        "Mg": 25,
+        "S": 30,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "cauliflower": {
+      "name": "Cauliflower (Phool Gobi)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 120,
+        "P": 60,
+        "K": 120,
+        "Ca": 45,
+        "Mg": 25,
+        "S": 30,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "brinjal": {
+      "name": "Brinjal (Baingan)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 150,
+        "P": 75,
+        "K": 150,
+        "Ca": 35,
+        "Mg": 20,
+        "S": 25,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "okra": {
+      "name": "Okra (Bhindi)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 20,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "bitter_gourd": {
+      "name": "Bitter Gourd (Karela)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 20,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "bottle_gourd": {
+      "name": "Bottle Gourd (Lauki)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 80,
+        "P": 40,
+        "K": 80,
+        "Ca": 25,
+        "Mg": 15,
+        "S": 18,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "pumpkin": {
+      "name": "Pumpkin (Kaddu)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 20,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "cucumber": {
+      "name": "Cucumber (Kheera)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 80,
+        "P": 40,
+        "K": 80,
+        "Ca": 25,
+        "Mg": 15,
+        "S": 18,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "radish": {
+      "name": "Radish (Mooli)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 80,
+        "P": 40,
+        "K": 80,
+        "Ca": 30,
+        "Mg": 15,
+        "S": 25,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "carrot": {
+      "name": "Carrot (Gajar)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 35,
+        "Mg": 18,
+        "S": 20,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "beetroot": {
+      "name": "Beetroot (Chukandar)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 20,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "spinach": {
+      "name": "Spinach (Palak)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 120,
+        "P": 40,
+        "K": 80,
+        "Ca": 60,
+        "Mg": 30,
+        "S": 25,
+        "Fe": 3,
+        "Mn": 0.7,
+        "Zn": 0.35
+      }
+    },
+    "fenugreek": {
+      "name": "Fenugreek (Methi)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 25,
+        "P": 30,
+        "K": 20,
+        "Ca": 20,
+        "Mg": 12,
+        "S": 15,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "coriander": {
+      "name": "Coriander (Dhaniya)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 60,
+        "P": 30,
+        "K": 30,
+        "Ca": 20,
+        "Mg": 12,
+        "S": 15,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "chilli": {
+      "name": "Chilli (Mirch)",
+      "category": "spice",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 30,
+        "Mg": 20,
+        "S": 25,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "turmeric": {
+      "name": "Turmeric (Haldi)",
+      "category": "spice",
+      "nutrients_per_hectare_kg": {
+        "N": 120,
+        "P": 60,
+        "K": 120,
+        "Ca": 25,
+        "Mg": 15,
+        "S": 30,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "ginger": {
+      "name": "Ginger (Adrak)",
+      "category": "spice",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 25,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "garlic": {
+      "name": "Garlic (Lahsun)",
+      "category": "spice",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 25,
+        "Mg": 15,
+        "S": 50,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "black_pepper": {
+      "name": "Black Pepper (Kali Mirch)",
+      "category": "spice",
+      "nutrients_per_plant_g": {
+        "N": 150,
+        "P": 75,
+        "K": 150,
+        "Ca": 40,
+        "Mg": 25,
+        "S": 30,
+        "Fe": 3,
+        "Mn": 0.8,
+        "Zn": 0.4
+      }
+    },
+    "cardamom": {
+      "name": "Cardamom (Elaichi)",
+      "category": "spice",
+      "nutrients_per_plant_g": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 30,
+        "Mg": 20,
+        "S": 25,
+        "Fe": 2,
+        "Mn": 0.6,
+        "Zn": 0.3
+      }
+    },
+    "mango": {
+      "name": "Mango (Aam)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 500,
+        "P": 250,
+        "K": 500,
+        "Ca": 150,
+        "Mg": 50,
+        "S": 30,
+        "Fe": 5,
+        "Mn": 1.5,
+        "Zn": 0.8
+      }
+    },
+    "banana": {
+      "name": "Banana (Kela)",
+      "category": "fruit",
+      "nutrients_per_plant_g": {
+        "N": 300,
+        "P": 150,
+        "K": 450,
+        "Ca": 100,
+        "Mg": 40,
+        "S": 25,
+        "Fe": 3,
+        "Mn": 1,
+        "Zn": 0.5
+      }
+    },
+    "guava": {
+      "name": "Guava (Amrood)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 350,
+        "P": 175,
+        "K": 350,
+        "Ca": 120,
+        "Mg": 40,
+        "S": 25,
+        "Fe": 4,
+        "Mn": 1.2,
+        "Zn": 0.6
+      }
+    },
+    "papaya": {
+      "name": "Papaya (Papita)",
+      "category": "fruit",
+      "nutrients_per_plant_g": {
+        "N": 250,
+        "P": 125,
+        "K": 300,
+        "Ca": 80,
+        "Mg": 35,
+        "S": 20,
+        "Fe": 3,
+        "Mn": 0.9,
+        "Zn": 0.45
+      }
+    },
+    "pomegranate": {
+      "name": "Pomegranate (Anar)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 400,
+        "P": 200,
+        "K": 400,
+        "Ca": 130,
+        "Mg": 45,
+        "S": 28,
+        "Fe": 4,
+        "Mn": 1.2,
+        "Zn": 0.6
+      }
+    },
+    "citrus": {
+      "name": "Citrus (Orange/Lemon)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 450,
+        "P": 225,
+        "K": 450,
+        "Ca": 160,
+        "Mg": 50,
+        "S": 32,
+        "Fe": 5,
+        "Mn": 1.5,
+        "Zn": 0.75
+      }
+    },
+    "apple": {
+      "name": "Apple (Seb)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 400,
+        "P": 200,
+        "K": 400,
+        "Ca": 150,
+        "Mg": 45,
+        "S": 30,
+        "Fe": 4,
+        "Mn": 1.2,
+        "Zn": 0.6
+      }
+    },
+    "grapes": {
+      "name": "Grapes (Angoor)",
+      "category": "fruit",
+      "nutrients_per_plant_g": {
+        "N": 300,
+        "P": 150,
+        "K": 400,
+        "Ca": 120,
+        "Mg": 40,
+        "S": 25,
+        "Fe": 3.5,
+        "Mn": 1,
+        "Zn": 0.5
+      }
+    },
+    "litchi": {
+      "name": "Litchi (Lychee)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 350,
+        "P": 175,
+        "K": 350,
+        "Ca": 130,
+        "Mg": 40,
+        "S": 25,
+        "Fe": 4,
+        "Mn": 1.2,
+        "Zn": 0.6
+      }
+    },
+    "sapota": {
+      "name": "Sapota (Chikoo)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 300,
+        "P": 150,
+        "K": 300,
+        "Ca": 100,
+        "Mg": 35,
+        "S": 22,
+        "Fe": 3,
+        "Mn": 1,
+        "Zn": 0.5
+      }
+    },
+    "custard_apple": {
+      "name": "Custard Apple (Sitafal)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 300,
+        "P": 150,
+        "K": 300,
+        "Ca": 110,
+        "Mg": 38,
+        "S": 23,
+        "Fe": 3.5,
+        "Mn": 1,
+        "Zn": 0.5
+      }
+    },
+    "jackfruit": {
+      "name": "Jackfruit (Kathal)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 500,
+        "P": 250,
+        "K": 500,
+        "Ca": 150,
+        "Mg": 50,
+        "S": 30,
+        "Fe": 5,
+        "Mn": 1.5,
+        "Zn": 0.75
+      }
+    },
+    "watermelon": {
+      "name": "Watermelon (Tarbuj)",
+      "category": "fruit",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 20,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "muskmelon": {
+      "name": "Muskmelon (Kharbooja)",
+      "category": "fruit",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 20,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "coconut": {
+      "name": "Coconut (Nariyal)",
+      "category": "plantation",
+      "nutrients_per_tree_g": {
+        "N": 600,
+        "P": 300,
+        "K": 900,
+        "Ca": 200,
+        "Mg": 80,
+        "S": 50,
+        "Fe": 6,
+        "Mn": 2,
+        "Zn": 1
+      }
+    },
+    "arecanut": {
+      "name": "Arecanut (Supari)",
+      "category": "plantation",
+      "nutrients_per_tree_g": {
+        "N": 400,
+        "P": 200,
+        "K": 600,
+        "Ca": 150,
+        "Mg": 50,
+        "S": 35,
+        "Fe": 4,
+        "Mn": 1.5,
+        "Zn": 0.75
+      }
+    },
+    "cashew": {
+      "name": "Cashew (Kaju)",
+      "category": "plantation",
+      "nutrients_per_tree_g": {
+        "N": 500,
+        "P": 250,
+        "K": 500,
+        "Ca": 140,
+        "Mg": 45,
+        "S": 30,
+        "Fe": 5,
+        "Mn": 1.5,
+        "Zn": 0.75
+      }
+    },
+    "coffee": {
+      "name": "Coffee",
+      "category": "plantation",
+      "nutrients_per_tree_g": {
+        "N": 250,
+        "P": 125,
+        "K": 250,
+        "Ca": 80,
+        "Mg": 35,
+        "S": 25,
+        "Fe": 3,
+        "Mn": 1,
+        "Zn": 0.5
+      }
+    },
+    "tea": {
+      "name": "Tea (Chai)",
+      "category": "plantation",
+      "nutrients_per_hectare_kg": {
+        "N": 150,
+        "P": 75,
+        "K": 150,
+        "Ca": 40,
+        "Mg": 25,
+        "S": 35,
+        "Fe": 3,
+        "Mn": 1,
+        "Zn": 0.5
+      }
+    },
+    "rubber": {
+      "name": "Rubber",
+      "category": "plantation",
+      "nutrients_per_tree_g": {
+        "N": 300,
+        "P": 150,
+        "K": 300,
+        "Ca": 100,
+        "Mg": 40,
+        "S": 28,
+        "Fe": 3.5,
+        "Mn": 1.2,
+        "Zn": 0.6
+      }
+    },
+    "tobacco": {
+      "name": "Tobacco (Tamakhu)",
+      "category": "cash_crop",
+      "nutrients_per_hectare_kg": {
+        "N": 80,
+        "P": 40,
+        "K": 80,
+        "Ca": 30,
+        "Mg": 20,
+        "S": 25,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "betel_vine": {
+      "name": "Betel Vine (Paan)",
+      "category": "cash_crop",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 50,
+        "Mg": 30,
+        "S": 25,
+        "Fe": 2.5,
+        "Mn": 0.7,
+        "Zn": 0.35
+      }
+    },
+    "sweet_potato": {
+      "name": "Sweet Potato (Shakarkand)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 150,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 20,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "tapioca": {
+      "name": "Tapioca (Cassava)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 150,
+        "Ca": 25,
+        "Mg": 15,
+        "S": 18,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "yam": {
+      "name": "Yam (Ratalu)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 120,
+        "P": 60,
+        "K": 120,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 22,
+        "Fe": 2,
+        "Mn": 0.6,
+        "Zn": 0.3
+      }
+    },
+    "colocasia": {
+      "name": "Colocasia (Arbi)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 35,
+        "Mg": 20,
+        "S": 20,
+        "Fe": 2.5,
+        "Mn": 0.6,
+        "Zn": 0.3
+      }
+    },
+    "elephant_foot_yam": {
+      "name": "Elephant Foot Yam (Suran)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 120,
+        "P": 60,
+        "K": 120,
+        "Ca": 40,
+        "Mg": 22,
+        "S": 25,
+        "Fe": 2.5,
+        "Mn": 0.7,
+        "Zn": 0.35
+      }
+    },
+    "french_bean": {
+      "name": "French Bean",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 30,
+        "P": 60,
+        "K": 60,
+        "Ca": 30,
+        "Mg": 18,
+        "S": 20,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "cluster_bean": {
+      "name": "Cluster Bean (Guar)",
+      "category": "vegetable",
+      "nutrients_per_hectare_kg": {
+        "N": 25,
+        "P": 40,
+        "K": 20,
+        "Ca": 20,
+        "Mg": 12,
+        "S": 15,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "cowpea": {
+      "name": "Cowpea (Lobia)",
+      "category": "pulse",
+      "nutrients_per_hectare_kg": {
+        "N": 20,
+        "P": 40,
+        "K": 20,
+        "Ca": 18,
+        "Mg": 10,
+        "S": 15,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "horse_gram": {
+      "name": "Horse Gram (Kulthi)",
+      "category": "pulse",
+      "nutrients_per_hectare_kg": {
+        "N": 20,
+        "P": 40,
+        "K": 20,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 15,
+        "Fe": 2,
+        "Mn": 0.5,
+        "Zn": 0.25
+      }
+    },
+    "moth_bean": {
+      "name": "Moth Bean (Matki)",
+      "category": "pulse",
+      "nutrients_per_hectare_kg": {
+        "N": 20,
+        "P": 40,
+        "K": 20,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 15,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "safflower": {
+      "name": "Safflower (Kusum)",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 60,
+        "P": 40,
+        "K": 30,
+        "Ca": 18,
+        "Mg": 12,
+        "S": 25,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "niger": {
+      "name": "Niger Seed (Ramtil)",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 50,
+        "P": 30,
+        "K": 25,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 20,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "rapeseed": {
+      "name": "Rapeseed (Toria)",
+      "category": "oilseed",
+      "nutrients_per_hectare_kg": {
+        "N": 80,
+        "P": 40,
+        "K": 30,
+        "Ca": 15,
+        "Mg": 10,
+        "S": 35,
+        "Fe": 1.5,
+        "Mn": 0.4,
+        "Zn": 0.2
+      }
+    },
+    "oil_palm": {
+      "name": "Oil Palm",
+      "category": "plantation",
+      "nutrients_per_tree_g": {
+        "N": 800,
+        "P": 400,
+        "K": 1200,
+        "Ca": 250,
+        "Mg": 100,
+        "S": 60,
+        "Fe": 8,
+        "Mn": 2.5,
+        "Zn": 1.2
+      }
+    },
+    "clove": {
+      "name": "Clove (Laung)",
+      "category": "spice",
+      "nutrients_per_tree_g": {
+        "N": 200,
+        "P": 100,
+        "K": 200,
+        "Ca": 80,
+        "Mg": 35,
+        "S": 25,
+        "Fe": 3,
+        "Mn": 1,
+        "Zn": 0.5
+      }
+    },
+    "nutmeg": {
+      "name": "Nutmeg (Jaiphal)",
+      "category": "spice",
+      "nutrients_per_tree_g": {
+        "N": 250,
+        "P": 125,
+        "K": 250,
+        "Ca": 90,
+        "Mg": 40,
+        "S": 28,
+        "Fe": 3.5,
+        "Mn": 1.2,
+        "Zn": 0.6
+      }
+    },
+    "cinnamon": {
+      "name": "Cinnamon (Dalchini)",
+      "category": "spice",
+      "nutrients_per_tree_g": {
+        "N": 200,
+        "P": 100,
+        "K": 200,
+        "Ca": 75,
+        "Mg": 35,
+        "S": 25,
+        "Fe": 3,
+        "Mn": 1,
+        "Zn": 0.5
+      }
+    },
+    "vanilla": {
+      "name": "Vanilla",
+      "category": "spice",
+      "nutrients_per_plant_g": {
+        "N": 150,
+        "P": 75,
+        "K": 150,
+        "Ca": 60,
+        "Mg": 30,
+        "S": 22,
+        "Fe": 2.5,
+        "Mn": 0.8,
+        "Zn": 0.4
+      }
+    },
+    "strawberry": {
+      "name": "Strawberry",
+      "category": "fruit",
+      "nutrients_per_hectare_kg": {
+        "N": 100,
+        "P": 50,
+        "K": 100,
+        "Ca": 40,
+        "Mg": 25,
+        "S": 20,
+        "Fe": 2.5,
+        "Mn": 0.7,
+        "Zn": 0.35
+      }
+    },
+    "dragon_fruit": {
+      "name": "Dragon Fruit",
+      "category": "fruit",
+      "nutrients_per_plant_g": {
+        "N": 200,
+        "P": 100,
+        "K": 250,
+        "Ca": 80,
+        "Mg": 35,
+        "S": 20,
+        "Fe": 2.5,
+        "Mn": 0.8,
+        "Zn": 0.4
+      }
+    },
+    "passion_fruit": {
+      "name": "Passion Fruit",
+      "category": "fruit",
+      "nutrients_per_plant_g": {
+        "N": 200,
+        "P": 100,
+        "K": 200,
+        "Ca": 70,
+        "Mg": 30,
+        "S": 20,
+        "Fe": 2.5,
+        "Mn": 0.8,
+        "Zn": 0.4
+      }
+    },
+    "kiwi": {
+      "name": "Kiwi",
+      "category": "fruit",
+      "nutrients_per_plant_g": {
+        "N": 250,
+        "P": 125,
+        "K": 250,
+        "Ca": 90,
+        "Mg": 35,
+        "S": 22,
+        "Fe": 3,
+        "Mn": 1,
+        "Zn": 0.5
+      }
+    },
+    "avocado": {
+      "name": "Avocado",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 400,
+        "P": 200,
+        "K": 400,
+        "Ca": 120,
+        "Mg": 45,
+        "S": 28,
+        "Fe": 4,
+        "Mn": 1.2,
+        "Zn": 0.6
+      }
+    },
+    "plum": {
+      "name": "Plum (Aloo Bukhara)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 350,
+        "P": 175,
+        "K": 350,
+        "Ca": 130,
+        "Mg": 42,
+        "S": 26,
+        "Fe": 3.5,
+        "Mn": 1.1,
+        "Zn": 0.55
+      }
+    },
+    "peach": {
+      "name": "Peach (Aadu)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 350,
+        "P": 175,
+        "K": 350,
+        "Ca": 130,
+        "Mg": 42,
+        "S": 26,
+        "Fe": 3.5,
+        "Mn": 1.1,
+        "Zn": 0.55
+      }
+    },
+    "pear": {
+      "name": "Pear (Nashpati)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 400,
+        "P": 200,
+        "K": 400,
+        "Ca": 140,
+        "Mg": 45,
+        "S": 28,
+        "Fe": 4,
+        "Mn": 1.2,
+        "Zn": 0.6
+      }
+    },
+    "apricot": {
+      "name": "Apricot (Khubani)",
+      "category": "fruit",
+      "nutrients_per_tree_g": {
+        "N": 350,
+        "P": 175,
+        "K": 350,
+        "Ca": 130,
+        "Mg": 42,
+        "S": 26,
+        "Fe": 3.5,
+        "Mn": 1.1,
+        "Zn": 0.55
+      }
+    }
+  }
+}

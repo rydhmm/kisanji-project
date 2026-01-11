@@ -1,0 +1,851 @@
+  {
+  "tricyclazole 75 wp": {
+    "name": "Tricyclazole 75% WP",
+    "type": "Fungicide",
+    "options": {
+      "Rice": { "Blast": { "dosage": 300, "water": 200, "phi": 30 } },
+      "Wheat": { "Blast": { "dosage": 300, "water": 200, "phi": 30 } }
+    }
+  },
+  "profenofos 40 + cypermethrin 4 ec": {
+    "name": "Profenofos + Cypermethrin",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 600, "water": 200, "phi": 30 } },
+      "Soybean": { "Girdle Beetle": { "dosage": 500, "water": 200, "phi": 25 } }
+    }
+  },
+  "hexaconazole 5 sc": {
+    "name": "Hexaconazole 5% SC",
+    "type": "Fungicide",
+    "options": {
+      "Mango": { "Powdery Mildew": { "dosage": 200, "water": 200, "phi": 30 } },
+      "Grapes": { "Powdery Mildew": { "dosage": 200, "water": 200, "phi": 15 } }
+    }
+  },
+  "ethion 50 ec": {
+    "name": "Ethion 50% EC",
+    "type": "Insecticide",
+    "options": {
+      "Citrus": { "Scale Insects": { "dosage": 400, "water": 200, "phi": 21 } },
+      "Mango": { "Mealybug": { "dosage": 400, "water": 200, "phi": 30 } }
+    }
+  },
+  "monocrotophos 36 sl": {
+    "name": "Monocrotophos 36% SL",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Sucking Pests": { "dosage": 400, "water": 200, "phi": 40 } },
+      "Sugarcane": { "Borers": { "dosage": 600, "water": 400, "phi": 60 } }
+    }
+  },
+  "quinalphos 25 ec": {
+    "name": "Quinalphos 25% EC",
+    "type": "Insecticide",
+    "options": {
+      "Rice": { "Stem Borer": { "dosage": 800, "water": 200, "phi": 30 } },
+      "Cotton": { "Bollworms": { "dosage": 600, "water": 200, "phi": 40 } }
+    }
+  },
+  "fenvalerate 20 ec": {
+    "name": "Fenvalerate 20% EC",
+    "type": "Insecticide",
+    "options": {
+      "Cabbage": { "DBM": { "dosage": 200, "water": 200, "phi": 10 } },
+      "Cotton": { "Helicoverpa": { "dosage": 300, "water": 200, "phi": 30 } }
+    }
+  },
+  "dimethoate 30 ec": {
+    "name": "Dimethoate 30% EC",
+    "type": "Insecticide",
+    "options": {
+      "Wheat": { "Aphids": { "dosage": 400, "water": 200, "phi": 15 } },
+      "Mustard": { "Aphids": { "dosage": 400, "water": 200, "phi": 15 } }
+    }
+  },
+  "acephate 75 sp": {
+    "name": "Acephate 75% SP",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Sucking Pests": { "dosage": 500, "water": 200, "phi": 30 } },
+      "Vegetables": { "Leaf Miners": { "dosage": 600, "water": 200, "phi": 14 } }
+    }
+  },
+  "phosphamidon 40 sl": {
+    "name": "Phosphamidon 40% SL",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Aphids": { "dosage": 400, "water": 200, "phi": 40 } },
+      "Citrus": { "Leaf Miner": { "dosage": 300, "water": 200, "phi": 21 } }
+    }
+  },
+  "chlorpyriphos 50 + cypermethrin 5 ec": {
+    "name": "Chlorpyriphos + Cypermethrin",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 600, "water": 200, "phi": 40 } },
+      "Soybean": { "Semilooper": { "dosage": 500, "water": 200, "phi": 30 } }
+    }
+  },
+  "myclobutanil 10 wp": {
+    "name": "Myclobutanil 10% WP",
+    "type": "Fungicide",
+    "options": {
+      "Apple": { "Powdery Mildew": { "dosage": 100, "water": 200, "phi": 30 } },
+      "Grapes": { "Powdery Mildew": { "dosage": 100, "water": 200, "phi": 15 } }
+    }
+  },
+  "carbosulfan 25 ec": {
+    "name": "Carbosulfan 25% EC",
+    "type": "Insecticide",
+    "options": {
+      "Rice": { "BPH": { "dosage": 800, "water": 200, "phi": 30 } },
+      "Sugarcane": { "Termites": { "dosage": 1000, "water": 400, "phi": 60 } }
+    }
+  },
+  "fenitrothion 50 ec": {
+    "name": "Fenitrothion 50% EC",
+    "type": "Insecticide",
+    "options": {
+      "Rice": { "Leaf Folder": { "dosage": 600, "water": 200, "phi": 30 } },
+      "Wheat": { "Army Worm": { "dosage": 500, "water": 200, "phi": 21 } }
+    }
+  },
+  "captan 50 wp": {
+    "name": "Captan 50% WP",
+    "type": "Fungicide",
+    "options": {
+      "Apple": { "Scab": { "dosage": 800, "water": 200, "phi": 30 } },
+      "Tomato": { "Damping Off": { "dosage": 600, "water": 200, "phi": 15 } }
+    }
+  },
+  "thiodicarb 75 wp": {
+    "name": "Thiodicarb 75% WP",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 500, "water": 200, "phi": 40 } },
+      "Soybean": { "Tobacco Caterpillar": { "dosage": 600, "water": 200, "phi": 30 } }
+    }
+  },
+  "difenoconazole 25 ec": {
+    "name": "Difenoconazole 25% EC",
+    "type": "Fungicide",
+    "options": {
+      "Rice": { "Sheath Blight": { "dosage": 100, "water": 200, "phi": 30 } },
+      "Mango": { "Anthracnose": { "dosage": 150, "water": 200, "phi": 30 } }
+    }
+  },
+  "flusilazole 40 ec": {
+    "name": "Flusilazole 40% EC",
+    "type": "Fungicide",
+    "options": {
+      "Banana": { "Sigatoka": { "dosage": 80, "water": 200, "phi": 30 } },
+      "Groundnut": { "Rust": { "dosage": 100, "water": 200, "phi": 21 } }
+    }
+  },
+  "methomyl 40 sp": {
+    "name": "Methomyl 40% SP",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 400, "water": 200, "phi": 30 } },
+      "Tomato": { "Fruit Borer": { "dosage": 300, "water": 200, "phi": 7 } }
+    }
+  },
+  "phorate 10 g": {
+    "name": "Phorate 10% G",
+    "type": "Insecticide",
+    "options": {
+      "Sugarcane": { "Termites": { "dosage": 10, "water": 0, "phi": 90 } },
+      "Groundnut": { "White Grub": { "dosage": 8, "water": 0, "phi": 60 } }
+    }
+  },
+  "triazophos 40 ec": {
+    "name": "Triazophos 40% EC",
+    "type": "Insecticide",
+    "options": {
+      "Rice": { "Stem Borer": { "dosage": 600, "water": 200, "phi": 30 } },
+      "Cotton": { "Sucking Pests": { "dosage": 500, "water": 200, "phi": 40 } }
+    }
+  },
+  "isoprothiolane 40 ec": {
+    "name": "Isoprothiolane 40% EC",
+    "type": "Fungicide",
+    "options": {
+      "Rice": { "Blast": { "dosage": 750, "water": 200, "phi": 30 } },
+      "Rice": { "Sheath Blight": { "dosage": 750, "water": 200, "phi": 30 } }
+    }
+  },
+  "butachlor 50 ec": {
+    "name": "Butachlor 50% EC",
+    "type": "Herbicide",
+    "options": {
+      "Rice": { "Grasses": { "dosage": 1500, "water": 200, "phi": 0 } },
+      "Wheat": { "Weeds": { "dosage": 1200, "water": 200, "phi": 0 } }
+    }
+  },
+  "alachlor 50 ec": {
+    "name": "Alachlor 50% EC",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Weeds": { "dosage": 2000, "water": 200, "phi": 0 } },
+      "Soybean": { "Weeds": { "dosage": 1800, "water": 200, "phi": 0 } }
+    }
+  },
+  "anilofos 30 ec": {
+    "name": "Anilofos 30% EC",
+    "type": "Herbicide",
+    "options": {
+      "Rice": { "Grasses": { "dosage": 600, "water": 200, "phi": 0 } },
+      "Wheat": { "Phalaris": { "dosage": 500, "water": 200, "phi": 0 } }
+    }
+  },
+  "fluchloralin 45 ec": {
+    "name": "Fluchloralin 45% EC",
+    "type": "Herbicide",
+    "options": {
+      "Cotton": { "Weeds": { "dosage": 1000, "water": 200, "phi": 0 } },
+      "Soybean": { "Weeds": { "dosage": 800, "water": 200, "phi": 0 } }
+    }
+  },
+  "thiophanate-methyl 70 wp": {
+    "name": "Thiophanate-methyl 70% WP",
+    "type": "Fungicide",
+    "options": {
+      "Apple": { "Scab": { "dosage": 500, "water": 200, "phi": 30 } },
+      "Banana": { "Sigatoka": { "dosage": 600, "water": 200, "phi": 30 } }
+    }
+  },
+  "propiconazole 25 ec": {
+    "name": "Propiconazole 25% EC",
+    "type": "Fungicide",
+    "options": {
+      "Wheat": { "Rust": { "dosage": 200, "water": 200, "phi": 30 } },
+      "Groundnut": { "Tikka": { "dosage": 250, "water": 200, "phi": 21 } }
+    }
+  },
+  "cypermethrin 25 ec": {
+    "name": "Cypermethrin 25% EC",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 200, "water": 200, "phi": 30 } },
+      "Cabbage": { "DBM": { "dosage": 150, "water": 200, "phi": 10 } }
+    }
+  },
+  "fenpropathrin 30 ec": {
+    "name": "Fenpropathrin 30% EC",
+    "type": "Insecticide",
+    "options": {
+      "Tea": { "Mites": { "dosage": 150, "water": 200, "phi": 14 } },
+      "Cotton": { "Whitefly": { "dosage": 200, "water": 200, "phi": 30 } }
+    }
+  },
+  "endosulfan 35 ec": {
+    "name": "Endosulfan 35% EC",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 700, "water": 200, "phi": 40 } },
+      "Tea": { "Tea Mosquito": { "dosage": 500, "water": 200, "phi": 21 } }
+    }
+  },
+  "malathion 50 ec": {
+    "name": "Malathion 50% EC",
+    "type": "Insecticide",
+    "options": {
+      "Vegetables": { "Aphids": { "dosage": 500, "water": 200, "phi": 7 } },
+      "Wheat": { "Aphids": { "dosage": 600, "water": 200, "phi": 15 } }
+    }
+  },
+  "carbaryl 50 wp": {
+    "name": "Carbaryl 50% WP",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 800, "water": 200, "phi": 30 } },
+      "Groundnut": { "Hairy Caterpillar": { "dosage": 1000, "water": 200, "phi": 21 } }
+    }
+  },
+  "profenofos 50 ec": {
+    "name": "Profenofos 50% EC",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 600, "water": 200, "phi": 40 } },
+      "Cabbage": { "DBM": { "dosage": 500, "water": 200, "phi": 10 } }
+    }
+  },
+  "imidacloprid 70 ws": {
+    "name": "Imidacloprid 70% WS",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Seed Treatment": { "dosage": 5, "water": 1, "phi": 0 } },
+      "Rice": { "Seed Treatment": { "dosage": 5, "water": 1, "phi": 0 } }
+    }
+  },
+  "thiomethoxam 70 ws": {
+    "name": "Thiomethoxam 70% WS",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Seed Treatment": { "dosage": 5, "water": 1, "phi": 0 } },
+      "Maize": { "Seed Treatment": { "dosage": 5, "water": 1, "phi": 0 } }
+    }
+  },
+  "diazinon 60 ec": {
+    "name": "Diazinon 60% EC",
+    "type": "Insecticide",
+    "options": {
+      "Rice": { "Stem Borer": { "dosage": 500, "water": 200, "phi": 30 } },
+      "Vegetables": { "Cutworms": { "dosage": 400, "water": 200, "phi": 14 } }
+    }
+  },
+  "dicofol 18.5 ec": {
+    "name": "Dicofol 18.5% EC",
+    "type": "Acaricide",
+    "options": {
+      "Cotton": { "Mites": { "dosage": 600, "water": 200, "phi": 30 } },
+      "Tea": { "Red Spider Mite": { "dosage": 500, "water": 200, "phi": 21 } }
+    }
+  },
+  "profenofos 40 + alphacypermethrin 4 ec": {
+    "name": "Profenofos + Alpha-cypermethrin",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 500, "water": 200, "phi": 40 } },
+      "Soybean": { "Semilooper": { "dosage": 400, "water": 200, "phi": 30 } }
+    }
+  },
+  "chlorantraniliprole 18.5 sc": {
+    "name": "Chlorantraniliprole 18.5% SC",
+    "type": "Insecticide",
+    "options": {
+      "Cabbage": { "DBM": { "dosage": 60, "water": 200, "phi": 7 } },
+      "Tomato": { "Fruit Borer": { "dosage": 80, "water": 200, "phi": 5 } }
+    }
+  },
+  "flubendiamide 39.35 sc": {
+    "name": "Flubendiamide 39.35% SC",
+    "type": "Insecticide",
+    "options": {
+      "Soybean": { "Tobacco Caterpillar": { "dosage": 30, "water": 200, "phi": 30 } },
+      "Cotton": { "Bollworms": { "dosage": 40, "water": 200, "phi": 40 } }
+    }
+  },
+  "indoxacarb 14.5 sc": {
+    "name": "Indoxacarb 14.5% SC",
+    "type": "Insecticide",
+    "options": {
+      "Cabbage": { "DBM": { "dosage": 100, "water": 200, "phi": 7 } },
+      "Cotton": { "Bollworms": { "dosage": 120, "water": 200, "phi": 30 } }
+    }
+  },
+  "metaflumizone 22 sc": {
+    "name": "Metaflumizone 22% SC",
+    "type": "Insecticide",
+    "options": {
+      "Cabbage": { "DBM": { "dosage": 200, "water": 200, "phi": 7 } },
+      "Tomato": { "Fruit Borer": { "dosage": 180, "water": 200, "phi": 5 } }
+    }
+  },
+  "emamectin benzoate 5 sg": {
+    "name": "Emamectin Benzoate 5% SG",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 50, "water": 200, "phi": 30 } },
+      "Cabbage": { "DBM": { "dosage": 40, "water": 200, "phi": 7 } }
+    }
+  },
+  "spirodiclofen 240 sc": {
+    "name": "Spirodiclofen 240 SC",
+    "type": "Acaricide",
+    "options": {
+      "Citrus": { "Mites": { "dosage": 120, "water": 200, "phi": 21 } },
+      "Cotton": { "Mites": { "dosage": 100, "water": 200, "phi": 30 } }
+    }
+  },
+  "ethiprole 10 sc": {
+    "name": "Ethiprole 10% SC",
+    "type": "Insecticide",
+    "options": {
+      "Rice": { "Stem Borer": { "dosage": 100, "water": 200, "phi": 30 } },
+      "Vegetables": { "Leaf Miners": { "dosage": 80, "water": 200, "phi": 14 } }
+    }
+  },
+  "novaluron 10 ec": {
+    "name": "Novaluron 10% EC",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Whitefly": { "dosage": 300, "water": 200, "phi": 30 } },
+      "Cabbage": { "DBM": { "dosage": 250, "water": 200, "phi": 7 } }
+    }
+  },
+  "lufenuron 5.4 ec": {
+    "name": "Lufenuron 5.4% EC",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Bollworms": { "dosage": 200, "water": 200, "phi": 30 } },
+      "Soybean": { "Tobacco Caterpillar": { "dosage": 180, "water": 200, "phi": 30 } }
+    }
+  },
+  "acetamiprid 20 sp": {
+    "name": "Acetamiprid 20% SP",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Aphids": { "dosage": 40, "water": 200, "phi": 25 } },
+      "Vegetables": { "Jassids": { "dosage": 50, "water": 200, "phi": 14 } }
+    }
+  },
+  "thiacloprid 48 sc": {
+    "name": "Thiacloprid 48% SC",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Whitefly": { "dosage": 60, "water": 200, "phi": 30 } },
+      "Vegetables": { "Thrips": { "dosage": 70, "water": 200, "phi": 14 } }
+    }
+  },
+  "sulfoxaflor 24 sc": {
+    "name": "Sulfoxaflor 24% SC",
+    "type": "Insecticide",
+    "options": {
+      "Cotton": { "Sucking Pests": { "dosage": 60, "water": 200, "phi": 30 } },
+      "Vegetables": { "Aphids": { "dosage": 50, "water": 200, "phi": 14 } }
+    }
+  },
+  "amitraz 20 ec": {
+    "name": "Amitraz 20% EC",
+    "type": "Acaricide",
+    "options": {
+      "Cotton": { "Mites": { "dosage": 400, "water": 200, "phi": 30 } },
+      "Citrus": { "Mites": { "dosage": 300, "water": 200, "phi": 21 } }
+    }
+  },
+  "dicamba 48 sl": {
+    "name": "Dicamba 48% SL",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Broadleaf Weeds": { "dosage": 400, "water": 200, "phi": 0 } },
+      "Wheat": { "Broadleaf Weeds": { "dosage": 300, "water": 200, "phi": 0 } }
+    }
+  },
+  "mesotrione 10 sc": {
+    "name": "Mesotrione 10% SC",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Broadleaf Weeds": { "dosage": 100, "water": 200, "phi": 0 } },
+      "Sugarcane": { "Weeds": { "dosage": 120, "water": 200, "phi": 0 } }
+    }
+  },
+  "nicosulfuron 4 sc": {
+    "name": "Nicosulfuron 4% SC",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Grassy Weeds": { "dosage": 40, "water": 200, "phi": 0 } },
+      "Sugarcane": { "Grasses": { "dosage": 50, "water": 200, "phi": 0 } }
+    }
+  },
+  "foramsulfuron 22.5 wg": {
+    "name": "Foramsulfuron 22.5% WG",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Weeds": { "dosage": 45, "water": 200, "phi": 0 } },
+      "Sugarcane": { "Weeds": { "dosage": 50, "water": 200, "phi": 0 } }
+    }
+  },
+  "tembotrione 34.4 sc": {
+    "name": "Tembotrione 34.4% SC",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Broadleaf Weeds": { "dosage": 100, "water": 200, "phi": 0 } },
+      "Sugarcane": { "Weeds": { "dosage": 120, "water": 200, "phi": 0 } }
+    }
+  },
+  "topramezone 33.6 sc": {
+    "name": "Topramezone 33.6% SC",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Weeds": { "dosage": 30, "water": 200, "phi": 0 } },
+      "Sugarcane": { "Weeds": { "dosage": 40, "water": 200, "phi": 0 } }
+    }
+  },
+  "florasulam 10 + 2,4-d 40 sc": {
+    "name": "Florasulam + 2,4-D",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Broadleaf Weeds": { "dosage": 200, "water": 200, "phi": 0 } },
+      "Maize": { "Broadleaf Weeds": { "dosage": 250, "water": 200, "phi": 0 } }
+    }
+  },
+  "carfentrazone 40 df": {
+    "name": "Carfentrazone-ethyl 40% DF",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Broadleaf Weeds": { "dosage": 20, "water": 200, "phi": 0 } },
+      "Rice": { "Sedges": { "dosage": 25, "water": 200, "phi": 0 } }
+    }
+  },
+  "metsulfuron 20 wp": {
+    "name": "Metsulfuron-methyl 20% WP",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Broadleaf Weeds": { "dosage": 4, "water": 200, "phi": 0 } },
+      "Rice": { "Weeds": { "dosage": 5, "water": 200, "phi": 0 } }
+    }
+  },
+  "chlorimuron 25 wp": {
+    "name": "Chlorimuron-ethyl 25% WP",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Broadleaf Weeds": { "dosage": 8, "water": 200, "phi": 0 } },
+      "Groundnut": { "Weeds": { "dosage": 10, "water": 200, "phi": 0 } }
+    }
+  },
+  "imazethapyr 10 sl": {
+    "name": "Imazethapyr 10% SL",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Broadleaf Weeds": { "dosage": 75, "water": 200, "phi": 0 } },
+      "Groundnut": { "Weeds": { "dosage": 80, "water": 200, "phi": 0 } }
+    }
+  },
+  "quizalofop 5 ec": {
+    "name": "Quizalofop-p-ethyl 5% EC",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Grassy Weeds": { "dosage": 400, "water": 200, "phi": 0 } },
+      "Groundnut": { "Grasses": { "dosage": 350, "water": 200, "phi": 0 } }
+    }
+  },
+  "fenoxaprop 9.3 ec": {
+    "name": "Fenoxaprop-p-ethyl 9.3% EC",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Phalaris": { "dosage": 500, "water": 200, "phi": 0 } },
+      "Soybean": { "Grasses": { "dosage": 550, "water": 200, "phi": 0 } }
+    }
+  },
+  "propoxycarbazone 70 wg": {
+    "name": "Propoxycarbazone 70% WG",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Phalaris": { "dosage": 20, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 25, "water": 200, "phi": 0 } }
+    }
+  },
+  "pyroxasulfone 85 wg": {
+    "name": "Pyroxasulfone 85% WG",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Weeds": { "dosage": 100, "water": 200, "phi": 0 } },
+      "Soybean": { "Weeds": { "dosage": 120, "water": 200, "phi": 0 } }
+    }
+  },
+  "flumioxazin 50 wg": {
+    "name": "Flumioxazin 50% WG",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Broadleaf Weeds": { "dosage": 50, "water": 200, "phi": 0 } },
+      "Groundnut": { "Weeds": { "dosage": 60, "water": 200, "phi": 0 } }
+    }
+  },
+  "saflufenacil 70 wg": {
+    "name": "Saflufenacil 70% WG",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Broadleaf Weeds": { "dosage": 15, "water": 200, "phi": 0 } },
+      "Maize": { "Weeds": { "dosage": 20, "water": 200, "phi": 0 } }
+    }
+  },
+  "bentazone 48 sl": {
+    "name": "Bentazone 48% SL",
+    "type": "Herbicide",
+    "options": {
+      "Rice": { "Sedges": { "dosage": 1000, "water": 200, "phi": 0 } },
+      "Soybean": { "Broadleaf Weeds": { "dosage": 800, "water": 200, "phi": 0 } }
+    }
+  },
+  "2,4-d 58 sl": {
+    "name": "2,4-D 58% SL",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Broadleaf Weeds": { "dosage": 500, "water": 200, "phi": 0 } },
+      "Rice": { "Weeds": { "dosage": 600, "water": 200, "phi": 0 } }
+    }
+  },
+  "glyphosate 41 sl": {
+    "name": "Glyphosate 41% SL",
+    "type": "Herbicide",
+    "options": {
+      "No-till Fields": { "All Weeds": { "dosage": 800, "water": 200, "phi": 0 } },
+      "Orchards": { "Weeds": { "dosage": 1000, "water": 200, "phi": 0 } }
+    }
+  },
+  "glufosinate 13.5 sl": {
+    "name": "Glufosinate-ammonium 13.5% SL",
+    "type": "Herbicide",
+    "options": {
+      "Orchards": { "Weeds": { "dosage": 400, "water": 200, "phi": 0 } },
+      "Tea": { "Weeds": { "dosage": 350, "water": 200, "phi": 0 } }
+    }
+  },
+  "paraquat 24 sl": {
+    "name": "Paraquat 24% SL",
+    "type": "Herbicide",
+    "options": {
+      "Orchards": { "Weeds": { "dosage": 500, "water": 200, "phi": 0 } },
+      "Plantations": { "Weeds": { "dosage": 600, "water": 200, "phi": 0 } }
+    }
+  },
+  "diuron 80 wp": {
+    "name": "Diuron 80% WP",
+    "type": "Herbicide",
+    "options": {
+      "Sugarcane": { "Weeds": { "dosage": 1000, "water": 200, "phi": 0 } },
+      "Cotton": { "Weeds": { "dosage": 800, "water": 200, "phi": 0 } }
+    }
+  },
+  "atrazine 50 wp": {
+    "name": "Atrazine 50% WP",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Weeds": { "dosage": 1000, "water": 200, "phi": 0 } },
+      "Sugarcane": { "Weeds": { "dosage": 1200, "water": 200, "phi": 0 } }
+    }
+  },
+  "simazine 50 wp": {
+    "name": "Simazine 50% WP",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Weeds": { "dosage": 800, "water": 200, "phi": 0 } },
+      "Citrus": { "Weeds": { "dosage": 1000, "water": 200, "phi": 0 } }
+    }
+  },
+  "metolachlor 50 ec": {
+    "name": "Metolachlor 50% EC",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Weeds": { "dosage": 1000, "water": 200, "phi": 0 } },
+      "Soybean": { "Weeds": { "dosage": 800, "water": 200, "phi": 0 } }
+    }
+  },
+  "alachlor 50 ec": {
+    "name": "Alachlor 50% EC",
+    "type": "Herbicide",
+    "options": {
+      "Maize": { "Weeds": { "dosage": 2000, "water": 200, "phi": 0 } },
+      "Soybean": { "Weeds": { "dosage": 1800, "water": 200, "phi": 0 } }
+    }
+  },
+  "butachlor 50 ec": {
+    "name": "Butachlor 50% EC",
+    "type": "Herbicide",
+    "options": {
+      "Rice": { "Grasses": { "dosage": 1500, "water": 200, "phi": 0 } },
+      "Wheat": { "Weeds": { "dosage": 1200, "water": 200, "phi": 0 } }
+    }
+  },
+  "pretilachlor 50 ec": {
+    "name": "Pretilachlor 50% EC",
+    "type": "Herbicide",
+    "options": {
+      "Rice": { "Grasses": { "dosage": 600, "water": 200, "phi": 0 } },
+      "Wheat": { "Weeds": { "dosage": 500, "water": 200, "phi": 0 } }
+    }
+  },
+  "anilofos 30 ec": {
+    "name": "Anilofos 30% EC",
+    "type": "Herbicide",
+    "options": {
+      "Rice": { "Grasses": { "dosage": 600, "water": 200, "phi": 0 } },
+      "Wheat": { "Phalaris": { "dosage": 500, "water": 200, "phi": 0 } }
+    }
+  },
+  "fluchloralin 45 ec": {
+    "name": "Fluchloralin 45% EC",
+    "type": "Herbicide",
+    "options": {
+      "Cotton": { "Weeds": { "dosage": 1000, "water": 200, "phi": 0 } },
+      "Soybean": { "Weeds": { "dosage": 800, "water": 200, "phi": 0 } }
+    }
+  },
+  "trifluralin 48 ec": {
+    "name": "Trifluralin 48% EC",
+    "type": "Herbicide",
+    "options": {
+      "Cotton": { "Weeds": { "dosage": 800, "water": 200, "phi": 0 } },
+      "Soybean": { "Weeds": { "dosage": 700, "water": 200, "phi": 0 } }
+    }
+  },
+  "pendimethalin 30 ec": {
+    "name": "Pendimethalin 30% EC",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Phalaris": { "dosage": 1000, "water": 200, "phi": 0 } },
+      "Soybean": { "Weeds": { "dosage": 800, "water": 200, "phi": 0 } }
+    }
+  },
+  "oxyfluorfen 23.5 ec": {
+    "name": "Oxyfluorfen 23.5% EC",
+    "type": "Herbicide",
+    "options": {
+      "Cotton": { "Weeds": { "dosage": 200, "water": 200, "phi": 0 } },
+      "Soybean": { "Weeds": { "dosage": 180, "water": 200, "phi": 0 } }
+    }
+  },
+  "fomesafen 11.1 sl": {
+    "name": "Fomesafen 11.1% SL",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Broadleaf Weeds": { "dosage": 250, "water": 200, "phi": 0 } },
+      "Groundnut": { "Weeds": { "dosage": 200, "water": 200, "phi": 0 } }
+    }
+  },
+  "acifluorfen 16.5 sl": {
+    "name": "Acifluorfen 16.5% SL",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Broadleaf Weeds": { "dosage": 500, "water": 200, "phi": 0 } },
+      "Groundnut": { "Weeds": { "dosage": 400, "water": 200, "phi": 0 } }
+    }
+  },
+  "lactofen 24 ec": {
+    "name": "Lactofen 24% EC",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Broadleaf Weeds": { "dosage": 150, "water": 200, "phi": 0 } },
+      "Groundnut": { "Weeds": { "dosage": 120, "water": 200, "phi": 0 } }
+    }
+  },
+  "fluazifop 13.4 ec": {
+    "name": "Fluazifop-p-butyl 13.4% EC",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Grassy Weeds": { "dosage": 400, "water": 200, "phi": 0 } },
+      "Groundnut": { "Grasses": { "dosage": 350, "water": 200, "phi": 0 } }
+    }
+  },
+  "haloxyfop 10.5 ec": {
+    "name": "Haloxyfop-R-methyl 10.5% EC",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Grassy Weeds": { "dosage": 400, "water": 200, "phi": 0 } },
+      "Groundnut": { "Grasses": { "dosage": 350, "water": 200, "phi": 0 } }
+    }
+  },
+  "quizalofop 5 ec": {
+    "name": "Quizalofop-p-ethyl 5% EC",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Grassy Weeds": { "dosage": 400, "water": 200, "phi": 0 } },
+      "Groundnut": { "Grasses": { "dosage": 350, "water": 200, "phi": 0 } }
+    }
+  },
+  "fenoxaprop 9.3 ec": {
+    "name": "Fenoxaprop-p-ethyl 9.3% EC",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Phalaris": { "dosage": 500, "water": 200, "phi": 0 } },
+      "Soybean": { "Grasses": { "dosage": 550, "water": 200, "phi": 0 } }
+    }
+  },
+  "clodinafop 15 wp": {
+    "name": "Clodinafop-propargyl 15% WP",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Phalaris": { "dosage": 60, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 70, "water": 200, "phi": 0 } }
+    }
+  },
+  "tralkoxydim 10 ec": {
+    "name": "Tralkoxydim 10% EC",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Grassy Weeds": { "dosage": 400, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 350, "water": 200, "phi": 0 } }
+    }
+  },
+  "clethodim 24 ec": {
+    "name": "Clethodim 24% EC",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Grassy Weeds": { "dosage": 100, "water": 200, "phi": 0 } },
+      "Groundnut": { "Grasses": { "dosage": 80, "water": 200, "phi": 0 } }
+    }
+  },
+  "sethoxydim 18.5 ec": {
+    "name": "Sethoxydim 18.5% EC",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Grassy Weeds": { "dosage": 200, "water": 200, "phi": 0 } },
+      "Groundnut": { "Grasses": { "dosage": 180, "water": 200, "phi": 0 } }
+    }
+  },
+  "propaquizafop 10 ec": {
+    "name": "Propaquizafop 10% EC",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Grassy Weeds": { "dosage": 100, "water": 200, "phi": 0 } },
+      "Groundnut": { "Grasses": { "dosage": 80, "water": 200, "phi": 0 } }
+    }
+  },
+  "cycloxydim 10 ec": {
+    "name": "Cycloxydim 10% EC",
+    "type": "Herbicide",
+    "options": {
+      "Soybean": { "Grassy Weeds": { "dosage": 150, "water": 200, "phi": 0 } },
+      "Groundnut": { "Grasses": { "dosage": 120, "water": 200, "phi": 0 } }
+    }
+  },
+  "pinoxaden 5 ec": {
+    "name": "Pinoxaden 5% EC",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Grassy Weeds": { "dosage": 400, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 350, "water": 200, "phi": 0 } }
+    }
+  },
+  "propoxycarbazone 70 wg": {
+    "name": "Propoxycarbazone 70% WG",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Phalaris": { "dosage": 20, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 25, "water": 200, "phi": 0 } }
+    }
+  },
+  "mesosulfuron 3 wg": {
+    "name": "Mesosulfuron-methyl 3% WG",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Broadleaf Weeds": { "dosage": 12, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 15, "water": 200, "phi": 0 } }
+    }
+  },
+  "iodosulfuron 4 wg": {
+    "name": "Iodosulfuron-methyl 4% WG",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Broadleaf Weeds": { "dosage": 10, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 12, "water": 200, "phi": 0 } }
+    }
+  },
+  "thiencarbazone 4 wg": {
+    "name": "Thiencarbazone-methyl 4% WG",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Grassy Weeds": { "dosage": 25, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 30, "water": 200, "phi": 0 } }
+    }
+  },
+  "pyroxsulam 4 wg": {
+    "name": "Pyroxsulam 4% WG",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Broadleaf Weeds": { "dosage": 15, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 18, "water": 200, "phi": 0 } }
+    }
+  },
+  "flucarbazone 25 wg": {
+    "name": "Flucarbazone-sodium 25% WG",
+    "type": "Herbicide",
+    "options": {
+      "Wheat": { "Grassy Weeds": { "dosage": 20, "water": 200, "phi": 0 } },
+      "Barley": { "Weeds": { "dosage": 25, "water": 200, "phi": 0 } }
+    }
+  }
+  }
+  
